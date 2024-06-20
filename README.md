@@ -19,5 +19,6 @@ Database: Utilizes MongoDB for data storage.
 - **JWT Authentication:** Provides secure user sessions using JSON Web Tokens.
 
 - **Password Hashing:** Ensures password security with bcrypt during user registration.
+
 **Explore the complete source code and project details on [GitHub](#https://github.com/HemantKr071/PayMe).**
 
